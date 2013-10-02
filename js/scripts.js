@@ -124,7 +124,7 @@ var boxs = [
     {
         selector: '#cover7',
         headline: "Cheasapeake Bay",
-        copy: "Hats off for the tips to cross the Bay Bridge. No traffic today, so we cruised along it, looking out over the Cheasapeake Bay. We looked out longingly at the few sail boats dotting the water. We're just pulling in to the yacht club now, on the other side, for a better view.",
+        copy: "Hats off for the tips to cross the Bay Bridge. No traffic today, so we cruised along it, looking out over the Cheasapeake Bay. We looked out longingly at the few sail boats dotting the water. We're just pulling into the yacht club now, on the other side, for a better view.",
         content: '<img src="images/baybridge.jpg">',
         address: ''
     },
@@ -148,7 +148,7 @@ var boxs = [
     {
         selector: '#cover10',
         headline: 'On the road',
-        copy: "It's a big day on the road today. Kylie is in the driving seat and Greta is snapping pics through the window as we push through Pennsylvania, New Jersey and New York, Connecticut to Boston, Massachusetts.",
+        copy: "It's a big day on the road today. Kylie is in the driving seat and Greta is snapping pics through the window as we push through Pennsylvania, New Jersey, New York, and Connecticut to Boston, Massachusetts.",
         content: '<img src="images/road.jpg">',
         address: ''
 
@@ -197,7 +197,7 @@ var boxs = [
     {
         selector: '#cover16',
         headline: 'Essex',
-        copy: "Essex, Massachusetts, is a picturesque harbour town, full of typical New England wooden houses. We are down at the water's edge talking to the shipbuilders. Plenty of clammers and shipbuilders live here, but also execs who commute into Boston, sports stars and one of New Kids On the Block. ",
+        copy: "Essex, Massachusetts, is a picturesque harbour town, full of typical wooden New England houses. We are down at the water's edge talking to the shipbuilders. Plenty of clammers and shipbuilders live here, but also execs who commute to Boston, sports stars and one of New Kids On the Block. ",
         content: '<img src="images/essex.jpg">',
         address: ''
     },
@@ -205,7 +205,7 @@ var boxs = [
     {
         selector: '#cover18',
         headline: 'Flour Bakery',
-        copy: "Shout out to <a target='_blank' href='http://www.theguardian.com/travel/2013/sep/26/twitter.com/loganpass/status/383219340750778368?screen_name=loganpass'>@loganpass</a> who recommended Flour Bakery, in the South End of Boston, for breakfast. The cupcakes look good, but I picked the twice-baked brioche, dipped in almonds. 'It's out-of-control-good,' says the server. 'Just look at it. Isn't beautiful?'<br/>",
+        copy: "Shout out to <a target='_blank' href='http://www.theguardian.com/travel/2013/sep/26/twitter.com/loganpass/status/383219340750778368?screen_name=loganpass'>@loganpass</a>, who recommended Flour Bakery, in the South End of Boston, for breakfast. The cupcakes look good, but I picked the twice-baked brioche, dipped in almonds. 'It's out-of-control-good,' says the server. 'Just look at it. Isn't it beautiful?'<br/>",
         content: '<img src="images/flour.jpg">',
         address: "• Flour Bakery, 1595 Washington St, Boston, MA, <a target='_blank' href='http://flourbakery.com'>flourbakery.com</a>"
     },
